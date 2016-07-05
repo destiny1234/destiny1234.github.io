@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: DESTINY1234
 title: You're up and running!
 ---
 
