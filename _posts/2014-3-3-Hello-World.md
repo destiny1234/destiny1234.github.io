@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Its A Data Scientist!
 ---
 
 Destiny1234: a blend of Engineering and Data Science
